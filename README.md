@@ -1,16 +1,22 @@
-## Hi there 👋
+### 
+<h1 align="center">Hi 👋 </h1>
 
-<!--
-**NightlyPixels/nightlypixels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----------------------------------------
 
-Here are some ideas to get you started:
+#### I'm programmer and indie game dev.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----------------------------------------
+
+- 🔭 I'm currently working on a 3d GDK.
+- 🌱 I'm learning 🅰️ngular.
+
+----------------------------------------
+
+<p aling= "center">
+  <a href = "https://github.com/nightlypixels">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nightlypixels&show_icons=true&theme=transparent&count_private=true" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightlypixels&layout=compact&theme=transparent"]/>
+  </a>
+</p>
+
+----------------------------------------
